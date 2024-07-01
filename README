@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your/repository.git
+git clone https://github.com/anuvkd/person-detection
 cd repository-directory
 Download Pre-trained Model:
 
