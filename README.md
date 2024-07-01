@@ -26,3 +26,11 @@ cd repository-directory
 ### Download the pre trained model
 
 [CNN model](http://download.tensorflow.org/models/object_detection/tf2/20200711/faster_rcnn_resnet50_v1_640x640_coco17_tpu-8.tar.gz)
+
+### How to run
+
+```bash
+python3 person_detection.py
+```
+
+Detected frames with annotated bounding boxes will be saved in the output directory.
